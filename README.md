@@ -2,7 +2,7 @@
 
 ## What is Beatseeker?
 
-**BeatSeeker** is an innovative concert-focused ticketing platform designed to streamline the process of purchasing and promoting concert tickets. Unlike general ticketing systems like TicketMaster, BeatSeeker specializes in providing a user-friendly experience specifically tailored to concert enthusiasts. With easy integration for new venues and customizable seat selection, BeatSeeker is a one-stop solution for an enjoyable concert-going experience."
+**BeatSeeker** is an innovative concert-focused ticketing platform designed to streamline the process of purchasing and promoting concert tickets. Unlike general ticketing systems like TicketMaster, BeatSeeker specializes in providing a user-friendly experience specifically tailored to concert enthusiasts. With easy integration for new venues and customizable seat selection, BeatSeeker is a one-stop solution for an enjoyable concert-going experience.
 
 ## Product Vision Statement
 
