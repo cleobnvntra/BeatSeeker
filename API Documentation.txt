@@ -4,7 +4,7 @@ _________________
     api to get all Concerts in JSON format
     route: /concert/api/all
 
-get concery by country:
+get concert by country:
 _______________________
 
     api to get all Concerts by Country
